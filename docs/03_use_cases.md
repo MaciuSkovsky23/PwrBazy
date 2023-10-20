@@ -1,4 +1,4 @@
-## Przypadki użycia
+# Przypadki użycia
 
 0. Przypadek użycia Rejestracja
 

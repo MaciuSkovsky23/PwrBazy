@@ -1,4 +1,4 @@
-## Opis firmy
+# Opis firmy
 
 Bank obsługuje osoby prywatne i firmy, i świadczy usługę prowadzenia konta bankowego
 na które klienci mogą wysyłać swoje pieniądze, lub zlecać przelewy na inne konta.
